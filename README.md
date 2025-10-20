@@ -9,7 +9,4 @@ A simple game where a cat tries to cross a road — don't get hit!
 
 ## Demo
 
-<video controls width="480">
-    <source src="assets/video.mp4" type="video/mp4">
-    Your browser does not support the video tag. You can view the demo here: [assets/video.mp4](assets/video.mp4)
-</video>
+[Demo Video](assets/video.mp4)
