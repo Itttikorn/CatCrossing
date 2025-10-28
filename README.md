@@ -9,4 +9,5 @@ A simple game where a cat tries to cross a road — don't get hit!
 
 ## Demo
 
-[Demo Video](assets/video.mp4)
+https://github.com/user-attachments/assets/2db7e838-0950-47e2-a500-8ded976af044
+
